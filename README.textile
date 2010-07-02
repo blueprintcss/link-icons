@@ -1,0 +1,9 @@
+h1. Blueprint Link Icons Plugin
+
+h2. Caveats
+
+The link icons plugin is not supported in versions of IE < 7
+
+h2. Authors
+
+Created by Marc Morgan and Olav Bjorkoy
